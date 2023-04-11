@@ -1,0 +1,6 @@
+[book]
+authors = ["Yufei Wu"]
+language = "en"
+multilingual = false
+src = "src"
+title = "ADSL Reading Group"
