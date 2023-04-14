@@ -4,3 +4,8 @@ language = "en"
 multilingual = false
 src = "src"
 title = "ADSL Reading Group"
+
+[output.html]
+git-repository-url = "https://github.com/adsl-rg/adsl-rg.github.io"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/adsl-rg/adsl-rg.github.io/edit/main/{path}"
