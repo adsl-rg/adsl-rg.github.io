@@ -15,5 +15,5 @@
 | Jun 8| Guanbin Xu, Zhihao Le |  todo   |  todo |
 | Jun 15 | Xinyang Shao |  todo  |  todo  |
 | Jun 22 | Haiquan Wang, Chengru Yang, Ping Gong          |   todo       |  todo      |
-| Jun 29 |           |          |       |
+| Jun 29 |  Jingbo Su         |    todo      |  todo     |
 | Jul 6 |           |          |       |
