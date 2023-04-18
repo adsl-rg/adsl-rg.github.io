@@ -13,7 +13,7 @@
 | May 25 | Quan Zhou |   todo   |  todo |
 | Jun 1 | Zewen Jin |   todo   |  todo |
 | Jun 8| Guanbin Xu, Zhihao Le |  todo   |  todo |
-| Jun 15 |           |          |       |
+| Jun 15 | Xinyang Shao |  todo  |  todo  |
 | Jun 22 |           |          |       |
 | Jun 29 |           |          |       |
 | Jul 6 |           |          |       |
