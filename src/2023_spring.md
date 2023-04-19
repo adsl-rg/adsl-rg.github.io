@@ -16,4 +16,4 @@
 | Jun 15 | Xinyang Shao |  todo  |  todo  |
 | Jun 22 | Haiquan Wang, Chengru Yang, Ping Gong          |   todo       |  todo      |
 | Jun 29 |  Jingbo Su         |    todo      |  todo     |
-| Jul 6 |           |          |       |
+| Jul 6 | Chaoyi Ruan, Chao Bi          |    todo      |   todo    |
