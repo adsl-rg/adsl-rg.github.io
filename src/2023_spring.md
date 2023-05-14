@@ -6,7 +6,7 @@
 
 - Topic: Kick-off Meeting
 - Presenters: Cheng Li, Yiduo Wang
-- Links: [Slides](https://rec.ustc.edu.cn/share/3da35cb0-da09-11ed-80ed-1303af1dcb7d)
+- Link: [Slides](https://rec.ustc.edu.cn/share/3da35cb0-da09-11ed-80ed-1303af1dcb7d)
 
 ---
 
@@ -21,6 +21,7 @@
 
 - Topic: [OSDI'22] [XRP: In-Kernel Storage Functions with eBPF](https://www.usenix.org/system/files/osdi22-zhong_1.pdf)
 - Presenters: Yiduo Wang, Zheng Yang, Qingyuan Chen
+- Link: [Slides](https://rec.ustc.edu.cn/share/d609ab00-f249-11ed-ad61-4fa4152d688b)
 
 ---
 
