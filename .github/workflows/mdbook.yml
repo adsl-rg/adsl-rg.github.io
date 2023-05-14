@@ -28,14 +28,12 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
-    env:
-      MDBOOK_VERSION: 0.4.28
     steps:
       - uses: actions/checkout@v3
       - name: Install mdBook
         run: |
           mkdir mdbook
-          curl -sSL https://github.com/rust-lang/mdBook/releases/download/v0.4.28/mdbook-v0.4.28-x86_64-unknown-linux-gnu.tar.gz | tar -xz --directory=./mdbook
+          curl -sSL https://github.com/rust-lang/mdBook/releases/download/v0.4.29/mdbook-v0.4.29-x86_64-unknown-linux-gnu.tar.gz | tar -xz --directory=./mdbook
           echo "$(pwd)/mdbook" >> $GITHUB_PATH
       - name: Setup Pages
         id: pages
