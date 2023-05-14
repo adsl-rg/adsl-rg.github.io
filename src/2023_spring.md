@@ -2,17 +2,87 @@
 
 ## Schedule
 
-| Date   | Presenter | Topic    | Links |
-| ------ | --------- | -------- | ----- |
-| Apr 13 | Cheng Li, Yiduo Wang  | Kick-off Meeting |    [Slides]( https://rec.ustc.edu.cn/share/3da35cb0-da09-11ed-80ed-1303af1dcb7d )   |
-| Apr 27 | Cheng Li  | Overview of Recent Top Conferences |       |
-| May 4 | Yiduo Wang, Zheng Yang, Qingyuan Chen  | [OSDI'22] [ XRP: In-Kernel Storage Functions with eBPF](https://www.usenix.org/system/files/osdi22-zhong_1.pdf) |       |
-| May 11 | Jiahao Li, Luofan Chen | [OSDI'22] [zIO: Accelerating IO-Intensive Applications with Transparent Zero-Copy IO](https://www.usenix.org/system/files/osdi22-stamler.pdf) |   |
-| May 18 | Jingze Huo | [FAST'23] [SMRSTORE: A Storage Engine for Cloud Object Storage on HM-SMR Drives](https://www.usenix.org/system/files/fast23-zhou-su.pdf) ||
-| May 25 | Quan Zhou |   todo   |  todo |
-| Jun 1 | Zewen Jin |   todo   |  todo |
-| Jun 8| Guanbin Xu, Zhihao Le |  todo   |  todo |
-| Jun 15 | Xinyang Shao |  todo  |  todo  |
-| Jun 22 | Haiquan Wang, Chengru Yang, Ping Gong          |   todo       |  todo      |
-| Jun 29 |  Jingbo Su         |    todo      |  todo     |
-| Jul 6 | Chaoyi Ruan, Chao Bi          |    todo      |   todo    |
+### April 13th
+
+- Topic: Kick-off Meeting
+- Presenters: Cheng Li, Yiduo Wang
+- Links: [Slides](https://rec.ustc.edu.cn/share/3da35cb0-da09-11ed-80ed-1303af1dcb7d)
+
+---
+
+### April 27th
+
+- Topic: Overiew of Recent Top Conferences
+- Presenters: Cheng Li, Kang Chen
+
+---
+
+### May 4th
+
+- Topic: [OSDI'22] [XRP: In-Kernel Storage Functions with eBPF](https://www.usenix.org/system/files/osdi22-zhong_1.pdf)
+- Presenters: Yiduo Wang, Zheng Yang, Qingyuan Chen
+
+---
+
+### May 11th
+
+- Topic: [OSDI'22] [zIO: Accelerating IO-Intensive Applications with Transparent Zero-Copy IO](https://www.usenix.org/system/files/osdi22-stamler.pdf)
+- Presenters: Jiahao Li, Luofan Chen
+
+---
+
+### May 18th
+
+- Topic: [FAST'23] [SMRSTORE: A Storage Engine for Cloud Object Storage on HM-SMR Drives](https://www.usenix.org/system/files/fast23-zhou-su.pdf)
+- Presenters: Jingze Huo
+
+---
+
+### May 25th
+
+- Topic: TBA
+- Presenter: Quan Zhou
+
+---
+
+### June 1st
+
+- Topic: TBA
+- Presenter: Zewen Jin
+
+---
+
+### June 8th
+
+- Topic: TBA
+- Presenters: Guanbin Xu, Zhihao Le
+
+---
+
+### June 15th
+
+- Topic: TBA
+- Presenter: Xinyang Shao
+
+---
+
+### June 22nd
+
+- Topic: TBA
+- Presenters: Haiquan Wang, Chengru Yang, Ping Gong
+
+---
+
+### June 29th
+
+- Topic: TBA
+- Presenter: Jingbo Su
+
+---
+
+### July 6th
+
+- Topic: TBA
+- Presenters: Chaoyi Ruan, Chao Bi
+
+---
