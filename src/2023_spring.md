@@ -8,7 +8,7 @@
 | Apr 27 | Cheng Li  | Overview of Recent Top Conferences |       |
 | May 4 | Yiduo Wang, Zheng Yang, Qingyuan Chen  | [OSDI'22] [ XRP: In-Kernel Storage Functions with eBPF](https://www.usenix.org/system/files/osdi22-zhong_1.pdf) |       |
 | May 11 | Jiahao Li, Luofan Chen | [OSDI'22] [zIO: Accelerating IO-Intensive Applications with Transparent Zero-Copy IO](https://www.usenix.org/system/files/osdi22-stamler.pdf) |   |
-| May 18 |  Jingze Huo         |    todo      |    todo   |
+| May 18 | Jingze Huo | [FAST'23] [SMRSTORE: A Storage Engine for Cloud Object Storage on HM-SMR Drives](https://www.usenix.org/system/files/fast23-zhou-su.pdf) ||
 | May 25 | Quan Zhou |   todo   |  todo |
 | Jun 1 | Zewen Jin |   todo   |  todo |
 | Jun 8| Guanbin Xu, Zhihao Le |  todo   |  todo |
