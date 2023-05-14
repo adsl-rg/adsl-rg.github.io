@@ -29,6 +29,7 @@
 
 - Topic: [OSDI'22] [zIO: Accelerating IO-Intensive Applications with Transparent Zero-Copy IO](https://www.usenix.org/system/files/osdi22-stamler.pdf)
 - Presenters: Jiahao Li, Luofan Chen
+- Link: [Slides](https://rec.ustc.edu.cn/share/06b518a0-f24b-11ed-81b8-754e5e114551)
 
 ---
 
