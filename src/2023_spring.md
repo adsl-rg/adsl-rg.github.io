@@ -50,7 +50,7 @@
 ### June 1st
 
 - Topic: TBA
-- Presenter: Zewen Jin
+- Presenter: Chaoyi Ruan, Chao Bi
 
 ---
 
@@ -85,6 +85,6 @@
 ### July 6th
 
 - Topic: TBA
-- Presenters: Chaoyi Ruan, Chao Bi
+- Presenters: Zewen Jin
 
 ---
