@@ -49,7 +49,7 @@
 
 ### June 1st
 
-- Topic: TBA
+- Topic: [ASPLOS'23] [Pond: CXL-Based Memory Pooling Systems for Cloud Platforms](https://dl.acm.org/doi/pdf/10.1145/3575693.3578835)
 - Presenter: Chaoyi Ruan, Chao Bi
 
 ---
