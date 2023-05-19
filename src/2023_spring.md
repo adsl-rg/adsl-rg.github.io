@@ -56,7 +56,7 @@
 
 ### June 8th
 
-- Topic: TBA
+- Topic: [ASPLOS'22] [AStitch: enabling a new multi-dimensional optimization space for memory-intensive ML training and inference on modern SIMT architectures](https://dl.acm.org/doi/10.1145/3503222.3507723)
 - Presenters: Guanbin Xu, Zhihao Le
 
 ---
