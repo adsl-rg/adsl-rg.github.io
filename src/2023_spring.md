@@ -36,7 +36,8 @@
 ### May 18th
 
 - Topic: [FAST'23] [SMRSTORE: A Storage Engine for Cloud Object Storage on HM-SMR Drives](https://www.usenix.org/system/files/fast23-zhou-su.pdf)
-- Presenter: Jingze Huo
+- Presenter: Jingze Huo, Lijun Miao
+- Link: [Slides](https://rec.ustc.edu.cn/share/b36eff00-f6c8-11ed-8c4a-858ea4899f33)
 
 ---
 
