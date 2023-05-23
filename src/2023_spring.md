@@ -43,8 +43,8 @@
 
 ### May 25th
 
-- Topic: TBA
-- Presenter: Quan Zhou
+- Topic: [EuroSys'22] [Varuna: scalable, low-cost training of massive deep learning models](https://dl.acm.org/doi/abs/10.1145/3492321.3519584)
+- Presenter: Quan Zhou, Shiyi Wang
 
 ---
 
