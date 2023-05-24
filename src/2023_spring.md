@@ -50,7 +50,7 @@
 
 ### June 1st
 
-- Topic: [ASPLOS'23] [Pond: CXL-Based Memory Pooling Systems for Cloud Platforms](https://dl.acm.org/doi/pdf/10.1145/3575693.3578835)
+- Topic: [FAST'23] [ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems](https://www.usenix.org/system/files/fast23-li-pengfei.pdf)
 - Presenter: Chaoyi Ruan, Chao Bi
 
 ---
