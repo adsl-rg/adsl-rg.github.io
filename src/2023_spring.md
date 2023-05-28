@@ -45,6 +45,7 @@
 
 - Topic: [EuroSys'22] [Varuna: scalable, low-cost training of massive deep learning models](https://dl.acm.org/doi/abs/10.1145/3492321.3519584)
 - Presenter: Quan Zhou, Shiyi Wang
+- Link: [Slides](https://rec.ustc.edu.cn/share/f55a84a0-fd07-11ed-bbb1-836a5d5181c7)
 
 ---
 
