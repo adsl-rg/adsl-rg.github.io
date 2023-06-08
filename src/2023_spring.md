@@ -65,7 +65,7 @@
 
 ### June 15th
 
-- Topic: TBA
+- Topic: [FAST'23] [CJFS: Concurrent Journaling for Better Scalability](https://www.usenix.org/system/files/fast23-oh.pdf)
 - Presenter: Xinyang Shao
 
 ---
