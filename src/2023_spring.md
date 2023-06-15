@@ -79,7 +79,7 @@
 
 ### June 29th
 
-- Topic: TBA
+- Topic: [ASPLOS 2023][Towards an Adaptable Systems Architecture for Memory Tiering at Warehouse-Scale](https://dl.acm.org/doi/10.1145/3582016.3582031)
 - Presenter: Jingbo Su
 
 ---
