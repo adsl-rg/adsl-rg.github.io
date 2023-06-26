@@ -53,6 +53,7 @@
 
 - Topic: [FAST'23] [ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems](https://www.usenix.org/system/files/fast23-li-pengfei.pdf)
 - Presenter: Chaoyi Ruan, Chao Bi
+- Link: [Slides](https://rec.ustc.edu.cn/share/6c832440-091d-11ee-951f-8596e4d0c1ee)
 
 ---
 
