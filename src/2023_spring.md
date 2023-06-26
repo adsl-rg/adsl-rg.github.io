@@ -70,21 +70,21 @@
 
 ---
 
-### June 22nd
+### June 29nd
 
 - Topic: [ASPLOS'23][DeepUM: Tensor Migration and Prefetching in Unified Memory](https://dl.acm.org/doi/10.1145/3575693.3575736)
-- Presenters: Haiquan Wang, Chengru Yang, Ping Gong
+- Presenters: Haiquan Wang, Chengru Yang, Ping Gong, Yingyi Hao, Xiaoying Ding
 
 ---
 
-### June 29th
+### July 6th
 
 - Topic: [ASPLOS'23][Towards an Adaptable Systems Architecture for Memory Tiering at Warehouse-Scale](https://dl.acm.org/doi/10.1145/3582016.3582031)
 - Presenter: Jingbo Su
 
 ---
 
-### July 6th
+### July 13th
 
 - Topic: TBA
 - Presenters: Zewen Jin
