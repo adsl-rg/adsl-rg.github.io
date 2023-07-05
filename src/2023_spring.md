@@ -36,7 +36,7 @@
 ### May 18th
 
 - Topic: [FAST'23] [SMRSTORE: A Storage Engine for Cloud Object Storage on HM-SMR Drives](https://www.usenix.org/system/files/fast23-zhou-su.pdf)
-- Presenter: Jingze Huo, Lijun Miao
+- Presenters: Jingze Huo, Lijun Miao
 - Link: [Slides](https://rec.ustc.edu.cn/share/b36eff00-f6c8-11ed-8c4a-858ea4899f33)
 
 ---
@@ -44,7 +44,7 @@
 ### May 25th
 
 - Topic: [EuroSys'22] [Varuna: scalable, low-cost training of massive deep learning models](https://dl.acm.org/doi/abs/10.1145/3492321.3519584)
-- Presenter: Quan Zhou, Shiyi Wang
+- Presenters: Quan Zhou, Shiyi Wang
 - Link: [Slides](https://rec.ustc.edu.cn/share/f55a84a0-fd07-11ed-bbb1-836a5d5181c7)
 
 ---
@@ -52,7 +52,7 @@
 ### June 1st
 
 - Topic: [FAST'23] [ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems](https://www.usenix.org/system/files/fast23-li-pengfei.pdf)
-- Presenter: Chaoyi Ruan, Chao Bi
+- Presenters: Chaoyi Ruan, Chao Bi
 - Link: [Slides](https://rec.ustc.edu.cn/share/6c832440-091d-11ee-951f-8596e4d0c1ee)
 
 ---
@@ -73,21 +73,21 @@
 
 ### June 29nd
 
-- Topic: [ASPLOS'23][DeepUM: Tensor Migration and Prefetching in Unified Memory](https://dl.acm.org/doi/10.1145/3575693.3575736)
+- Topic: [ASPLOS'23] [DeepUM: Tensor Migration and Prefetching in Unified Memory](https://dl.acm.org/doi/10.1145/3575693.3575736)
 - Presenters: Haiquan Wang, Chengru Yang, Ping Gong, Yingyi Hao, Xiaoying Ding
 
 ---
 
 ### July 6th
 
-- Topic: [ASPLOS'23][Towards an Adaptable Systems Architecture for Memory Tiering at Warehouse-Scale](https://dl.acm.org/doi/10.1145/3582016.3582031)
+- Topic: [ASPLOS'23] [Towards an Adaptable Systems Architecture for Memory Tiering at Warehouse-Scale](https://dl.acm.org/doi/10.1145/3582016.3582031)
 - Presenter: Jingbo Su
 
 ---
 
 ### July 13th
 
-- Topic: TBA
-- Presenters: Zewen Jin
+- Topic: [ASPLOS'22] [Serverless Computing on Heterogeneous Computers](https://dl.acm.org/doi/10.1145/3503222.3507732)
+- Presenters: Jiaan Zhu, Yinhe Chen, Zewen Jin
 
 ---
