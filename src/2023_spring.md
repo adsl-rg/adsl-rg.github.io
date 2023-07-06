@@ -87,7 +87,7 @@
 
 ### July 13th
 
-- Topic: [ASPLOS'22] [Serverless Computing on Heterogeneous Computers](https://dl.acm.org/doi/10.1145/3503222.3507732)
+- Topic: [ASPLOS'23] [ElasticFlow: An Elastic Serverless Training Platform for Distributed Deep Learning](https://dl.acm.org/doi/10.1145/3575693.3575721)
 - Presenters: Jiaan Zhu, Yinhe Chen, Zewen Jin
 
 ---
