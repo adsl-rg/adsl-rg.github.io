@@ -61,6 +61,7 @@
 
 - Topic: [ASPLOS'22] [AStitch: enabling a new multi-dimensional optimization space for memory-intensive ML training and inference on modern SIMT architectures](https://dl.acm.org/doi/10.1145/3503222.3507723)
 - Presenters: Guanbin Xu, Zhihao Le
+- Link: [Slides](https://rec.ustc.edu.cn/share/fb55c790-2221-11ee-8317-3ff986f16ff7)
 
 ---
 
@@ -82,6 +83,7 @@
 
 - Topic: [ASPLOS'23] [Towards an Adaptable Systems Architecture for Memory Tiering at Warehouse-Scale](https://dl.acm.org/doi/10.1145/3582016.3582031)
 - Presenter: Jingbo Su
+- Link: [Slides](https://rec.ustc.edu.cn/share/d9b9a080-2221-11ee-a111-7139860d3301)
 
 ---
 
