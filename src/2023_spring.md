@@ -91,5 +91,6 @@
 
 - Topic: [ASPLOS'23] [ElasticFlow: An Elastic Serverless Training Platform for Distributed Deep Learning](https://dl.acm.org/doi/10.1145/3575693.3575721)
 - Presenters: Jiaan Zhu, Yinhe Chen, Zewen Jin
+- Link: [Slides](https://rec.ustc.edu.cn/share/ae603530-4ad0-11ee-ae4b-2f27e6cb3bce)
 
 ---
