@@ -2,6 +2,8 @@
 
 The reading group at USTC ADSL provides an opportunity for students, researchers, and faculty to keep abreast of current research in the system area and learn “how to do high-quality system research” by example.
 
+Check out [the onging one](./2024_fall.md).
+
 ## Topic
 
 The routine topic is a paper from recent top-tier system conference such as OSDI, SOSP, ASPLOS, SIGMOD, VLDB, ATC, EuroSys, NSDI, FAST etc.
