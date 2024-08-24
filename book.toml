@@ -9,6 +9,8 @@ title = "ADSL Reading Group"
 git-repository-url = "https://github.com/adsl-rg/adsl-rg.github.io"
 git-repository-icon = "fa-github"
 edit-url-template = "https://github.com/adsl-rg/adsl-rg.github.io/edit/main/{path}"
+additional-css = ["theme/pagetoc.css"]
+additional-js = ["theme/pagetoc.js"]
 
 [output.html.print]
 enable = false
