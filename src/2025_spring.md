@@ -12,4 +12,14 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 ## Schedule
 
-Will be released soon :)
+### February 25
+
+- 💡 Kick-off meeting
+- 🙎‍♂️ Jiyang Wang, Kunzhao Xu and Cheng Li
+- [📕 slides](./slides/250225-kickoff.pdf)
+
+### March 04
+
+- 💡 Comprehensive introduction of DeepSeek-AI's technical report
+- 🙎‍♂️ Xin Ren, Tonghuan Xiao, Jiahui Tan, Yandong Shi, Kunzhao Xu, Yifei Liu, Chongzhuo Yang, Jiaan Zhu, Zewen Jin, Yinhe Chen, Ping Gong, Guanbin Xu, Haiquan Wang, Quan Zhou and Chaoyi Ruan
+
