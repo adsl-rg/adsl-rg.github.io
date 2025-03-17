@@ -25,15 +25,22 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 ### March 18
 
+#### Topic Ⅰ
+
 - 💡 Comprehensive introduction of DeepSeek-AI's technical report  (PART Ⅱ)
 - 🙎‍♂️ Xin Ren, Tonghuan Xiao, Jiahui Tan, Yandong Shi, Kunzhao Xu, Yifei Liu, Chongzhuo Yang, Jiaan Zhu, Zewen Jin, Yinhe Chen, Ping Gong, Guanbin Xu, Haiquan Wang, Quan Zhou and Chaoyi Ruan
+
+#### Topic Ⅱ
+
+- 💡 [OSDI'24] [Ladder: Enabling Efficient Low-Precision Deep Learning Computing through Hardware-aware Tensor Transformation](https://www.usenix.org/system/files/osdi24-wang-lei.pdf)
+- 🙎‍♂️ Chengru Yang
 
 ### March 25
 
 #### Topic Ⅰ
 
-- 💡 [OSDI'24] [Ladder: Enabling Efficient Low-Precision Deep Learning Computing through Hardware-aware Tensor Transformation](https://www.usenix.org/system/files/osdi24-wang-lei.pdf)
-- 🙎‍♂️ Chengru Yang
+- 💡 [SOSP'24] [CHIME: A Cache-Efficient and High-Performance Hybrid Index on Disaggregated Memory](https://dl.acm.org/doi/pdf/10.1145/3694715.3695959)
+- 🙎‍♂️ Sen Han
 
 #### Topic Ⅱ
 
