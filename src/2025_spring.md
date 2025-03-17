@@ -20,6 +20,25 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 ### March 11
 
-- 💡 Comprehensive introduction of DeepSeek-AI's technical report
+- 💡 Comprehensive introduction of DeepSeek-AI's technical report  (PART Ⅰ)
 - 🙎‍♂️ Xin Ren, Tonghuan Xiao, Jiahui Tan, Yandong Shi, Kunzhao Xu, Yifei Liu, Chongzhuo Yang, Jiaan Zhu, Zewen Jin, Yinhe Chen, Ping Gong, Guanbin Xu, Haiquan Wang, Quan Zhou and Chaoyi Ruan
 
+### March 18
+
+- 💡 Comprehensive introduction of DeepSeek-AI's technical report  (PART Ⅱ)
+- 🙎‍♂️ Xin Ren, Tonghuan Xiao, Jiahui Tan, Yandong Shi, Kunzhao Xu, Yifei Liu, Chongzhuo Yang, Jiaan Zhu, Zewen Jin, Yinhe Chen, Ping Gong, Guanbin Xu, Haiquan Wang, Quan Zhou and Chaoyi Ruan
+
+### March 25
+
+#### Topic Ⅰ
+
+- 💡 [OSDI'24] [Ladder: Enabling Efficient Low-Precision Deep Learning Computing through Hardware-aware Tensor Transformation](https://www.usenix.org/system/files/osdi24-wang-lei.pdf)
+- 🙎‍♂️ Chengru Yang
+
+#### Topic Ⅱ
+
+- 💡 [arXiv] [fMoE: Fine-Grained Expert Offloading for Large Mixture-of-Experts Serving](https://arxiv.org/pdf/2502.05370)
+
+- 🙎‍♂️ Jia He, Jiaqi Ruan
+
+  
