@@ -39,8 +39,8 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 #### Topic Ⅰ
 
-- 💡 [SOSP'24] [CHIME: A Cache-Efficient and High-Performance Hybrid Index on Disaggregated Memory](https://dl.acm.org/doi/pdf/10.1145/3694715.3695959)
-- 🙎‍♂️ Sen Han
+- 💡 [OSDI'24] [FairyWren: A Sustainable Cache for Emerging Write-Read-Erase Flash Interfaces](https://www.usenix.org/system/files/osdi24-mcallister.pdf)
+- 🙎‍♂️ Qingyuan Chen
 
 #### Topic Ⅱ
 
