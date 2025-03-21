@@ -20,14 +20,15 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 ### March 11
 
-- 💡 Comprehensive introduction of DeepSeek-AI's technical report  (PART Ⅰ)
+- 💡 Comprehensive introduction of DeepSeek-AI's technical report (PART Ⅰ)
 - 🙎‍♂️ Xin Ren, Tonghuan Xiao, Jiahui Tan, Yandong Shi, Kunzhao Xu, Yifei Liu, Chongzhuo Yang, Jiaan Zhu, Zewen Jin, Yinhe Chen, Ping Gong, Guanbin Xu, Haiquan Wang, Quan Zhou and Chaoyi Ruan
+- [📕 MLA slides](./slides/250311-mla.pdf), [📕 DualPipe slides](./slides/250311-dp.pdf), [📕 FP8 Training slides](./slides/250311-fp8.pdf), [📕 MTP slides](./slides/250311-mtp.pdf), [📃 Q&A summary](https://zhuanlan.zhihu.com/p/31406523047), [📺 video](https://www.bilibili.com/video/BV15eQZY4ES9)
 
 ### March 18
 
 #### Topic Ⅰ
 
-- 💡 Comprehensive introduction of DeepSeek-AI's technical report  (PART Ⅱ)
+- 💡 Comprehensive introduction of DeepSeek-AI's technical report (PART Ⅱ)
 - 🙎‍♂️ Xin Ren, Tonghuan Xiao, Jiahui Tan, Yandong Shi, Kunzhao Xu, Yifei Liu, Chongzhuo Yang, Jiaan Zhu, Zewen Jin, Yinhe Chen, Ping Gong, Guanbin Xu, Haiquan Wang, Quan Zhou and Chaoyi Ruan
 
 #### Topic Ⅱ
@@ -45,7 +46,4 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 #### Topic Ⅱ
 
 - 💡 [arXiv] [fMoE: Fine-Grained Expert Offloading for Large Mixture-of-Experts Serving](https://arxiv.org/pdf/2502.05370)
-
 - 🙎‍♂️ Jia He, Jiaqi Ruan
-
-  
