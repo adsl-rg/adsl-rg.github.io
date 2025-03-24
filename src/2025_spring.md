@@ -47,3 +47,15 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 - 💡 [arXiv] [fMoE: Fine-Grained Expert Offloading for Large Mixture-of-Experts Serving](https://arxiv.org/pdf/2502.05370)
 - 🙎‍♂️ Jia He, Jiaqi Ruan
+
+### April 1
+
+#### Topic Ⅰ
+
+- 💡 [SOSP'24] [CHIME: A Cache-Efficient and High-Performance Hybrid Index on Disaggregated Memory](https://dl.acm.org/doi/abs/10.1145/3694715.3695959)
+- 🙎‍♂️ Sen Han
+
+#### Topic Ⅱ
+
+- 💡 [arXiv] [Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache](https://arxiv.org/pdf/2401.02669)
+- 🙎‍♂️ Tonghuan Xiao, Xin Ren
