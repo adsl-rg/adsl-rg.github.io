@@ -64,7 +64,7 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 #### Topic Ⅰ
 
-- 💡 [SOSP'24] [Tiered Memory Management: Access Latency is the Key!](https://dl.acm.org/doi/abs/10.1145/3694715.3695968)
+- 💡 [OSDI'25] Achieving Low-Latency Graph-Based Vector Search via Aligning Best-First Search Algorithm with SSD
 - 🙎‍♂️ Hengyu Liang
 
 #### Topic Ⅱ
