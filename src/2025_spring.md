@@ -93,7 +93,12 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 ### April 22
 
+#### Topic Ⅰ
+
 - 💡 [OSDI'24] [Llumnix: Dynamic Scheduling for Large Language Model Serving](https://www.usenix.org/system/files/osdi24-sun-biao.pdf)
 - 🙎‍♂️ Kunzhao Xu
+
+#### Topic Ⅱ
+
 - 💡 [SOSP'24] [Enabling Parallelism Hot Switching for Efficient Training of Large Language Models](https://dl.acm.org/doi/10.1145/3694715.3695969)
 - 🙎‍♂️ Qinghe Wang
