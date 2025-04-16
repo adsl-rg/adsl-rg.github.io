@@ -85,3 +85,8 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 - 💡 [arXiv] [Klotski: Efficient Mixture-of-Expert Inference via Expert-Aware Multi-Batch Pipeline](https://arxiv.org/pdf/2502.06888)
 - 🙎‍♂️ Jiawei Yi
+
+### April 15
+
+- 💡 [arXiv] [Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot](https://arxiv.org/pdf/2407.00079)
+- 🙎‍♂️ Juncheng Zhang
