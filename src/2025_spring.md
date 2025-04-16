@@ -90,3 +90,10 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 - 💡 [arXiv] [Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot](https://arxiv.org/pdf/2407.00079)
 - 🙎‍♂️ Juncheng Zhang
+
+### April 22
+
+- 💡 [OSDI'24] [Llumnix: Dynamic Scheduling for Large Language Model Serving](https://www.usenix.org/system/files/osdi24-sun-biao.pdf)
+- 🙎‍♂️ Kunzhao Xu
+- 💡 [SOSP'24] [Enabling Parallelism Hot Switching for Efficient Training of Large Language Models](https://dl.acm.org/doi/10.1145/3694715.3695969)
+- 🙎‍♂️ Qinghe Wang
