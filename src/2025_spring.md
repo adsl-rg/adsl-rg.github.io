@@ -116,3 +116,15 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 #### Summary and Video
 
 - [📃 Q&A Summary](), [📺 video]()
+
+### April 29
+
+#### Topic Ⅰ
+
+- 💡 [SOSP'24] [Tiered Memory Management: Access Latency is the Key!](https://dl.acm.org/doi/10.1145/3694715.3695968)
+- 🙎‍♂️ Lijun Miao
+
+#### Topic Ⅱ
+
+- 💡 [Arxiv] [ByteScale: Efficient Scaling of LLM Training with a 2048K Context Length on More Than 12,000 GPUs](https://www.arxiv.org/abs/2502.21231)
+- 🙎‍♂️ Long Zhao
