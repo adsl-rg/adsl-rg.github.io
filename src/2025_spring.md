@@ -22,7 +22,8 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 - 💡 Comprehensive introduction of DeepSeek-AI's technical report (PART Ⅰ)
 - 🙎‍♂️ Xin Ren, Tonghuan Xiao, Jiahui Tan, Yandong Shi, Kunzhao Xu, Yifei Liu, Chongzhuo Yang, Jiaan Zhu, Zewen Jin, Yinhe Chen, Ping Gong, Guanbin Xu, Haiquan Wang, Quan Zhou and Chaoyi Ruan
-- [📕 MLA slides](./slides/250311-mla.pdf), [📕 DualPipe slides](./slides/250311-dp.pdf), [📕 FP8 Training slides](./slides/250311-fp8.pdf), [📕 MTP slides](./slides/250311-mtp.pdf), [📃 Q&A summary](https://zhuanlan.zhihu.com/p/31406523047), [📺 video](https://www.bilibili.com/video/BV15eQZY4ES9)
+- [📕 MLA slides](./slides/250311-mla.pdf), [📕 DualPipe slides](./slides/250311-dp.pdf), [📕 FP8 Training slides](./slides/250311-fp8.pdf), [📕 MTP slides](./slides/250311-mtp.pdf)
+- [📃 Q&A summary](https://zhuanlan.zhihu.com/p/31406523047), [📺 video](https://www.bilibili.com/video/BV15eQZY4ES9)
 
 ### March 18
 
@@ -56,8 +57,7 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 #### Summary and Video
 
-- [📃 Q&A Summary]()
-- [📺 video]()
+- [📃 Q&A Summary](), [📺 video](https://www.bilibili.com/video/BV1riZtYNEp3)
 
 ### April 1
 
@@ -65,11 +65,17 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 - 💡 [SOSP'24] [CHIME: A Cache-Efficient and High-Performance Hybrid Index on Disaggregated Memory](https://dl.acm.org/doi/abs/10.1145/3694715.3695959)
 - 🙎‍♂️ Sen Han
+- [📕 slides]()
 
 #### Topic Ⅱ
 
 - 💡 [arXiv] [Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache](https://arxiv.org/pdf/2401.02669)
 - 🙎‍♂️ Tonghuan Xiao, Xin Ren
+- [📕 slides](./slides/250401-infinite-llm.pdf)
+
+#### Summary and Video
+
+- [📃 Q&A Summary](), [📺 video](https://www.bilibili.com/video/BV1sTdAYwEYC)
 
 ### April 8
 
@@ -82,11 +88,16 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 - 💡 [arXiv] [Klotski: Efficient Mixture-of-Expert Inference via Expert-Aware Multi-Batch Pipeline](https://arxiv.org/pdf/2502.06888)
 - 🙎‍♂️ Jiawei Yi
+- [📕 slides]()
+- [📃 Q&A summary](), [📺 video](https://www.bilibili.com/video/BV1zxdTYeEtK)
+
 
 ### April 15
 
 - 💡 [arXiv] [Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot](https://arxiv.org/pdf/2407.00079)
 - 🙎‍♂️ Juncheng Zhang
+- [📕 slides](./slides/250415-mooncake.pdf)
+- [📃 Q&A summary](), [📺 video]()
 
 ### April 22
 
@@ -94,8 +105,14 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 - 💡 [OSDI'24] [Llumnix: Dynamic Scheduling for Large Language Model Serving](https://www.usenix.org/system/files/osdi24-sun-biao.pdf)
 - 🙎‍♂️ Kunzhao Xu
+- [📕 slides](./slides/250422-llumnix.pdf)
 
 #### Topic Ⅱ
 
 - 💡 [SOSP'24] [Enabling Parallelism Hot Switching for Efficient Training of Large Language Models](https://dl.acm.org/doi/10.1145/3694715.3695969)
 - 🙎‍♂️ Qinghe Wang
+- [📕 slides](./slides/250422-hotspa.pdf)
+
+#### Summary and Video
+
+- [📃 Q&A Summary](), [📺 video]()
