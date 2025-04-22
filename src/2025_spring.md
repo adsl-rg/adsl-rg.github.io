@@ -31,17 +31,14 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 - 💡 Comprehensive introduction of DeepSeek-AI's technical report (PART Ⅱ)
 - 🙎‍♂️ Xin Ren, Tonghuan Xiao, Jiahui Tan, Yandong Shi, Kunzhao Xu, Yifei Liu, Chongzhuo Yang, Jiaan Zhu, Zewen Jin, Yinhe Chen, Ping Gong, Guanbin Xu, Haiquan Wang, Quan Zhou and Chaoyi Ruan
 - [📕 RL slides](./slides/250318-RL.pdf), [📕 3fs slides](./slides/250318-3fs.pdf)
+- [📃 Q&A summary](https://zhuanlan.zhihu.com/p/1898081775537853170), [📺 video](https://www.bilibili.com/video/BV1yqdJYyE2X)
 
 #### Topic Ⅱ
 
 - 💡 [OSDI'24] [Ladder: Enabling Efficient Low-Precision Deep Learning Computing through Hardware-aware Tensor Transformation](https://www.usenix.org/system/files/osdi24-wang-lei.pdf)
 - 🙎‍♂️ Chengru Yang
 - [📕 slides](./slides/250318-ladder.pdf)
-
-#### Summary and Video
-
-- [📃 Q&A Summary]()
-- [📺 video]()
+- [📃 Q&A summary](https://zhuanlan.zhihu.com/p/1898083213005522853), [📺 video](https://www.bilibili.com/video/BV1yqdJYyECu)
 
 ### March 25
 
