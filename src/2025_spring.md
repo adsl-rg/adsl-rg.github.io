@@ -128,3 +128,15 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 - 💡 [Arxiv] [ByteScale: Efficient Scaling of LLM Training with a 2048K Context Length on More Than 12,000 GPUs](https://www.arxiv.org/abs/2502.21231)
 - 🙎‍♂️ Long Zhao
+
+### May 6
+
+#### Topic Ⅰ
+
+- 💡 [OSDI'25] [Fast and Live Model Auto Scaling with O(1) Host Caching]((https://arxiv.org/abs/2412.17246))
+- 🙎‍♂️ Chenhan Wang
+
+#### Topic Ⅱ
+
+- 💡 [Arxiv] [Training-free and Adaptive Sparse Attention for Efficient Long Video Generation](https://arxiv.org/abs/2502.21079)
+- 🙎‍♂️ Shiyi Wang
