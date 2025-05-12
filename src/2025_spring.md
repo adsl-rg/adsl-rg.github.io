@@ -140,3 +140,15 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 - 💡 [Arxiv] [Training-free and Adaptive Sparse Attention for Efficient Long Video Generation](https://arxiv.org/abs/2502.21079)
 - 🙎‍♂️ Shiyi Wang
+
+### May 13
+
+#### Topic Ⅰ
+
+- 💡 [OSDI'25] [OZZ: Identifying Kernel Out-of-Order Concurrency Bugs with In-Vivo Memory Access Reordering](https://dlnext.acm.org/doi/10.1145/3694715.3695944)
+- 🙎‍♂️ Jiyang Wang
+
+#### Topic Ⅱ
+
+- 💡 [Arxiv] [AsyncFS: Metadata Updates Made Asynchronous for Distributed Filesystems with In-Network Coordination](https://arxiv.org/abs/2410.08618)
+- 🙎‍♂️ Chongzhuo Yang
