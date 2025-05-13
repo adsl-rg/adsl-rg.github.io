@@ -57,7 +57,7 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 #### Summary and Video
 
-- [📃 Q&A Summary](), [📺 video](https://www.bilibili.com/video/BV1riZtYNEp3)
+- [📃 Q&A Summary](https://zhuanlan.zhihu.com/p/1904946489387628431), [📺 video](https://www.bilibili.com/video/BV1riZtYNEp3)
 
 ### April 1
 
@@ -115,7 +115,7 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 #### Summary and Video
 
-- [📃 Q&A Summary](), [📺 video]()
+- [📃 Q&A Summary](), [📺 video](https://www.bilibili.com/video/BV1DYEgzLE1z)
 
 ### April 29
 
@@ -129,11 +129,15 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 - 💡 [Arxiv] [ByteScale: Efficient Scaling of LLM Training with a 2048K Context Length on More Than 12,000 GPUs](https://www.arxiv.org/abs/2502.21231)
 - 🙎‍♂️ Long Zhao
 
+#### Summary and Video
+
+- [📃 Q&A Summary](), [📺 video](https://www.bilibili.com/video/BV18REuzGEnK)
+
 ### May 6
 
 #### Topic Ⅰ
 
-- 💡 [OSDI'25] [Fast and Live Model Auto Scaling with O(1) Host Caching]((https://arxiv.org/abs/2412.17246))
+- 💡 [OSDI'25] [Fast and Live Model Auto Scaling with O(1) Host Caching](https://arxiv.org/abs/2412.17246)
 - 🙎‍♂️ Chenhan Wang
 
 #### Topic Ⅱ
