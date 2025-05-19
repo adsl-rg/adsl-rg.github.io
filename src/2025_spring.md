@@ -126,7 +126,7 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 #### Topic Ⅱ
 
-- 💡 [Arxiv] [ByteScale: Efficient Scaling of LLM Training with a 2048K Context Length on More Than 12,000 GPUs](https://www.arxiv.org/abs/2502.21231)
+- 💡 [arXiv] [ByteScale: Efficient Scaling of LLM Training with a 2048K Context Length on More Than 12,000 GPUs](https://www.arxiv.org/abs/2502.21231)
 - 🙎‍♂️ Long Zhao
 
 #### Summary and Video
@@ -142,7 +142,7 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 #### Topic Ⅱ
 
-- 💡 [Arxiv] [Training-free and Adaptive Sparse Attention for Efficient Long Video Generation](https://arxiv.org/abs/2502.21079)
+- 💡 [arXiv] [Training-free and Adaptive Sparse Attention for Efficient Long Video Generation](https://arxiv.org/abs/2502.21079)
 - 🙎‍♂️ Shiyi Wang
 
 ### May 13
@@ -154,5 +154,22 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 #### Topic Ⅱ
 
-- 💡 [Arxiv] [AsyncFS: Metadata Updates Made Asynchronous for Distributed Filesystems with In-Network Coordination](https://arxiv.org/abs/2410.08618)
+- 💡 [arXiv] [AsyncFS: Metadata Updates Made Asynchronous for Distributed Filesystems with In-Network Coordination](https://arxiv.org/abs/2410.08618)
 - 🙎‍♂️ Chongzhuo Yang
+
+### May 20
+
+- 💡 [arXiv] [Down with the Hierarchy: The ‘H’ in HNSW Stands for “Hubs”](https://arxiv.org/abs/2412.01940)
+- 🙎‍♂️ Bosen Yang
+
+### May 27
+
+#### Topic Ⅰ
+
+- 💡 [OSDI'24] [dLoRA: Dynamically Orchestrating Requests and Adapters for LoRA LLM Serving](https://www.usenix.org/system/files/osdi24-wu-bingyang.pdf)
+- 🙎‍♂️ Chizheng Fang
+
+#### Topic Ⅱ
+
+- 💡 [arXiv] [CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion](https://arxiv.org/abs/2405.16444)
+- 🙎‍♂️ Yicheng Zhang
