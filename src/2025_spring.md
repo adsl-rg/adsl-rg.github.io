@@ -65,7 +65,7 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 - 💡 [SOSP'24] [CHIME: A Cache-Efficient and High-Performance Hybrid Index on Disaggregated Memory](https://dl.acm.org/doi/abs/10.1145/3694715.3695959)
 - 🙎‍♂️ Sen Han
-- [📕 slides]()
+- [📕 slides](./slides/250401-Chime.pdf)
 
 #### Topic Ⅱ
 
@@ -75,7 +75,7 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 #### Summary and Video
 
-- [📃 Q&A Summary](), [📺 video](https://www.bilibili.com/video/BV1sTdAYwEYC)
+- [📃 Q&A Summary](https://zhuanlan.zhihu.com/p/1908210247123857680), [📺 video](https://www.bilibili.com/video/BV1sTdAYwEYC)
 
 ### April 8
 
@@ -88,8 +88,8 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 - 💡 [arXiv] [Klotski: Efficient Mixture-of-Expert Inference via Expert-Aware Multi-Batch Pipeline](https://arxiv.org/pdf/2502.06888)
 - 🙎‍♂️ Jiawei Yi
-- [📕 slides]()
-- [📃 Q&A summary](), [📺 video](https://www.bilibili.com/video/BV1zxdTYeEtK)
+- [📕 slides](./slides/250408-klotski.pdf)
+- [📃 Q&A summary](https://zhuanlan.zhihu.com/p/1908213388124861006), [📺 video](https://www.bilibili.com/video/BV1zxdTYeEtK)
 
 
 ### April 15
@@ -97,7 +97,7 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 - 💡 [arXiv] [Mooncake: Trading More Storage for Less Computation — A KVCache-centric Architecture for Serving LLM Chatbot](https://arxiv.org/pdf/2407.00079)
 - 🙎‍♂️ Juncheng Zhang
 - [📕 slides](./slides/250415-mooncake.pdf)
-- [📃 Q&A summary](), [📺 video]()
+- [📃 Q&A summary](), [📺 video](https://www.bilibili.com/video/BV1KmJ8zaEkj)
 
 ### April 22
 
@@ -115,7 +115,7 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 #### Summary and Video
 
-- [📃 Q&A Summary](), [📺 video](https://www.bilibili.com/video/BV1DYEgzLE1z)
+- [📃 Q&A Summary](https://zhuanlan.zhihu.com/p/1908554180580319318), [📺 video](https://www.bilibili.com/video/BV1DYEgzLE1z)
 
 ### April 29
 
