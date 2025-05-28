@@ -149,7 +149,7 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 #### Topic Ⅰ
 
-- 💡 [OSDI'25] [OZZ: Identifying Kernel Out-of-Order Concurrency Bugs with In-Vivo Memory Access Reordering](https://dlnext.acm.org/doi/10.1145/3694715.3695944)
+- 💡 [SOSP'24] [OZZ: Identifying Kernel Out-of-Order Concurrency Bugs with In-Vivo Memory Access Reordering](https://dlnext.acm.org/doi/10.1145/3694715.3695944)
 - 🙎‍♂️ Jiyang Wang
 
 #### Topic Ⅱ
