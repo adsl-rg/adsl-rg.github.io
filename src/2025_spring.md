@@ -151,16 +151,27 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 - 💡 [SOSP'24] [OZZ: Identifying Kernel Out-of-Order Concurrency Bugs with In-Vivo Memory Access Reordering](https://dlnext.acm.org/doi/10.1145/3694715.3695944)
 - 🙎‍♂️ Jiyang Wang
+- [📕 slides](./slides/250513-Ozz.pdf)
 
 #### Topic Ⅱ
 
 - 💡 [arXiv] [AsyncFS: Metadata Updates Made Asynchronous for Distributed Filesystems with In-Network Coordination](https://arxiv.org/abs/2410.08618)
 - 🙎‍♂️ Chongzhuo Yang
+- [📕 slides](./slides/250513-AsyncFS.pdf)
+
+#### Summary and Video
+
+- [📃 Q&A Summary](), [📺 video](https://www.bilibili.com/video/BV1Fy7nzREXd)
 
 ### May 20
 
 - 💡 [arXiv] [Down with the Hierarchy: The ‘H’ in HNSW Stands for “Hubs”](https://arxiv.org/abs/2412.01940)
 - 🙎‍♂️ Bosen Yang
+- [📕 slides](./slides/250520-HNSW.pdf)
+
+#### Summary and Video
+
+- [📃 Q&A Summary](), [📺 video](https://www.bilibili.com/video/BV1iT7DzaEMv)
 
 ### May 27
 
@@ -173,3 +184,15 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 - 💡 [arXiv] [CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion](https://arxiv.org/abs/2405.16444)
 - 🙎‍♂️ Yicheng Zhang
+
+### Jun 3
+
+#### Topic Ⅰ
+
+- 💡 [SOSP24] [Reducing Cross-Cloud/Region Costs with the Auto-Configuring MACARON Cache](https://dl.acm.org/doi/10.1145/3694715.3695972)
+- 🙎‍♂️ Chao Bi
+
+#### Topic Ⅱ
+
+- 💡 [arXiv] [ RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM Inference](https://arxiv.org/abs/2505.02922)
+- 🙎‍♂️ Xiaoqi Li
