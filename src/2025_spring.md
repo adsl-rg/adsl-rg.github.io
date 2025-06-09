@@ -196,3 +196,15 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 - 💡 [arXiv] [ RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM Inference](https://arxiv.org/abs/2505.02922)
 - 🙎‍♂️ Xiaoqi Li
+
+### Jun 10
+
+#### Topic Ⅰ
+
+- 💡 [SOSP24] [LazyLog: A New Shared Log Abstraction for Low-Latency Applications ](https://dl.acm.org/doi/10.1145/3694715.3695983)
+- 🙎‍♂️ Jiaxuan Liu
+
+#### Topic Ⅱ
+
+- 💡 [arXiv] [FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving](https://arxiv.org/abs/2501.01005)
+- 🙎‍♂️ Zewen Jin
