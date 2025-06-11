@@ -161,7 +161,7 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 #### Summary and Video
 
-- [📃 Q&A Summary](), [📺 video](https://www.bilibili.com/video/BV1Fy7nzREXd)
+- [📃 Q&A Summary](https://zhuanlan.zhihu.com/p/1915442048447808124), [📺 video](https://www.bilibili.com/video/BV1Fy7nzREXd)
 
 ### May 20
 
@@ -171,7 +171,7 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 #### Summary and Video
 
-- [📃 Q&A Summary](), [📺 video](https://www.bilibili.com/video/BV1iT7DzaEMv)
+- [📃 Q&A Summary](https://zhuanlan.zhihu.com/p/1915539843318002513), [📺 video](https://www.bilibili.com/video/BV1iT7DzaEMv)
 
 ### May 27
 
@@ -179,11 +179,13 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 - 💡 [OSDI'24] [dLoRA: Dynamically Orchestrating Requests and Adapters for LoRA LLM Serving](https://www.usenix.org/system/files/osdi24-wu-bingyang.pdf)
 - 🙎‍♂️ Chizheng Fang
+- [📕 slides](./slides/250527-dlora.pdf)
 
 #### Topic Ⅱ
 
 - 💡 [arXiv] [CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion](https://arxiv.org/abs/2405.16444)
 - 🙎‍♂️ Yicheng Zhang
+- [📕 slides](./slides/250527-cacheblend.pdf)
 
 ### Jun 3
 
@@ -191,11 +193,13 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 - 💡 [SOSP24] [Reducing Cross-Cloud/Region Costs with the Auto-Configuring MACARON Cache](https://dl.acm.org/doi/10.1145/3694715.3695972)
 - 🙎‍♂️ Chao Bi
+- [📕 slides](./slides/250603-macaron.pdf)
 
 #### Topic Ⅱ
 
 - 💡 [arXiv] [ RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM Inference](https://arxiv.org/abs/2505.02922)
 - 🙎‍♂️ Xiaoqi Li
+- [📕 slides](./slides/250603-retroinfer.pdf)
 
 ### Jun 10
 
@@ -203,8 +207,10 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 - 💡 [SOSP24] [LazyLog: A New Shared Log Abstraction for Low-Latency Applications ](https://dl.acm.org/doi/10.1145/3694715.3695983)
 - 🙎‍♂️ Jiaxuan Liu
+- [📕 slides](./slides/250610-lazylog.pdf)
 
 #### Topic Ⅱ
 
 - 💡 [arXiv] [FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving](https://arxiv.org/abs/2501.01005)
 - 🙎‍♂️ Zewen Jin
+- [📕 slides](./slides/250610-flashinfer.pdf)
