@@ -187,6 +187,10 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 - 🙎‍♂️ Yicheng Zhang
 - [📕 slides](./slides/250527-cacheblend.pdf)
 
+#### Summary and Video
+
+- [📃 Q&A Summary](), [📺 video](https://www.bilibili.com/video/BV1B1MBzyE4Q/)
+
 ### Jun 3
 
 #### Topic Ⅰ
@@ -214,3 +218,18 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 - 💡 [arXiv] [FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving](https://arxiv.org/abs/2501.01005)
 - 🙎‍♂️ Zewen Jin
 - [📕 slides](./slides/250610-flashinfer.pdf)
+
+### Jun 17
+
+#### Topic Ⅰ
+
+- 💡 [OSDI25] [WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training](https://arxiv.org/abs/2503.17924)
+- 🙎‍♂️ Shen Fu
+
+#### Topic Ⅱ
+
+- 💡 [arXiv] [Triton-distributed: Programming Overlapping Kernels on Distributed AI Systems with the Triton Compiler](https://arxiv.org/abs/2504.19442)
+
+- 🙎‍♂️ Ouxiang Zhou
+
+  
