@@ -232,4 +232,17 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 - 🙎‍♂️ Ouxiang Zhou
 
+### Jun 24
+
+#### Topic Ⅰ
+
+- 💡 [SOSP24] [VPRI: Efficient I/O Page Fault Handling via Software-Hardware Co-Design for IaaS Clouds ](https://dl.acm.org/doi/10.1145/3694715.3695957)
+- 🙎‍♂️ Zheng yang
+
+#### Topic Ⅱ
+
+- 💡 [arXiv] [StreamRL: Scalable, Heterogeneous, and Elastic RL for LLMs with Disaggregated Stream Generation](https://arxiv.org/abs/2504.15930)
+
+- 🙎‍♂️ Muxin Liu
+
   
