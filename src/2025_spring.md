@@ -245,4 +245,4 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 - 🙎‍♂️ Muxin Liu
 
-  
+- [📕 slides](./slides/250624-streamrl.pdf)
