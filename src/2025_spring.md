@@ -189,7 +189,7 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 #### Summary and Video
 
-- [📃 Q&A Summary](), [📺 video](https://www.bilibili.com/video/BV1B1MBzyE4Q/)
+- [📃 Q&A Summary](https://zhuanlan.zhihu.com/p/1934336212514108579), [📺 video](https://www.bilibili.com/video/BV1B1MBzyE4Q/)
 
 ### Jun 3
 
@@ -205,6 +205,10 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 - 🙎‍♂️ Xiaoqi Li
 - [📕 slides](./slides/250603-retroinfer.pdf)
 
+#### Summary and Video
+
+- [📃 Q&A Summary](https://zhuanlan.zhihu.com/p/1934337496696725728), [📺 video](https://www.bilibili.com/video/BV1zb8uzJENV)
+
 ### Jun 10
 
 #### Topic Ⅰ
@@ -219,6 +223,10 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 - 🙎‍♂️ Zewen Jin
 - [📕 slides](./slides/250610-flashinfer.pdf)
 
+#### Summary and Video
+
+- [📃 Q&A Summary](), [📺 video](https://www.bilibili.com/video/BV13k8uz6ECe/)
+
 ### Jun 17
 
 #### Topic Ⅰ
@@ -232,12 +240,19 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 - 🙎‍♂️ Ouxiang Zhou
 
+- [📕 slides](./slides/250617-triton.pdf)
+
+#### Summary and Video
+
+- [📃 Q&A Summary](), [📺 video](https://www.bilibili.com/video/BV1Dh82zkEUF)
+
 ### Jun 24
 
 #### Topic Ⅰ
 
 - 💡 [SOSP24] [VPRI: Efficient I/O Page Fault Handling via Software-Hardware Co-Design for IaaS Clouds ](https://dl.acm.org/doi/10.1145/3694715.3695957)
 - 🙎‍♂️ Zheng yang
+- [📕 slides](./slides/250624-vpri.pdf)
 
 #### Topic Ⅱ
 
@@ -246,3 +261,8 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 - 🙎‍♂️ Muxin Liu
 
 - [📕 slides](./slides/250624-streamrl.pdf)
+
+#### Summary and Video
+
+- [📺 video](https://www.bilibili.com/video/BV12z82zTE12)
+
