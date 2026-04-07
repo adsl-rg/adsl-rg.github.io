@@ -17,5 +17,5 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 - 💡 Kick-off meeting
 - 🙎‍♂️ Zewen Jin, Chizheng Fang, Yuzhe Li, Mulong Li and Shen Fu
-- 📕...
+- [📕slides](./slides/260407kick-off.pdf)
 <br><br>
