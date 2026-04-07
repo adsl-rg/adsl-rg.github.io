@@ -10,8 +10,10 @@
 
 The playback video and text summary will be uploaded to <a href="https://space.bilibili.com/3493280155175017/channel/collectiondetail?sid=3787828" target="_blank">bilibili</a> and <a href="https://www.zhihu.com/column/c_1819774258647277568" target="_blank">zhihu</a> as soon as possible.
 
+## Schedule
+### April 7
 
-
-
-
-
+- 💡 Kick-off meeting
+- 🙎‍♂️ Zewen Jin, Chizheng Fang, Yuzhe Li, Mulong Li and Shen Fu
+- [📕 slides]
+<br><br>
