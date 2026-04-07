@@ -19,3 +19,14 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 - 🙎‍♂️ Zewen Jin, Chizheng Fang, Yuzhe Li, Mulong Li and Shen Fu
 - [📕slides](./slides/260407kick-off.pdf)
 <br><br>
+### April 14
+#### Topic I
+- 💡 [CVPR'26] AdaCluster: Adaptive Query-Key Clustering for Sparse Attention in Video Generation
+- 🙎‍♂️ Haoyue Tan
+- 📕...
+<br><br>
+#### Topic II
+- 💡 [arXiv] [IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://arxiv.org/abs/2603.12201)
+- 🙎‍♂️ Ruibo Liu, Ouxiang Zhou
+- 📕...
+<br><br>
