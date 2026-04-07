@@ -2,9 +2,11 @@
 
 ## Specific Requirements
 
-- We focus on the latest papers from SOSP and OSDI, as well as papers released on arXiv. Each time presenters select one paper from SOSP or OSDI and one from arXiv.
-- The presentation follows a "1+N" format, where one person delivers the main content while supporting members assist with preparation and manage the Q&A session. These supporting members are also encouraged to contribute to the presentation.
-- The discussion should provide a thorough analysis of the paper’s strengths and weaknesses, along with a comprehensive review of related work from the past three years. The presentation must be at least 45 minutes long.
+- We adopt a topic-based organization this semester. Presenters should select papers that fit the semester topics. Paper sources are no longer restricted to SOSP, OSDI, or any specific venues, as long as the paper is confirmed with the organizers at registration time and meets the quality bar. 
+
+- The presentation format is flexible. For one paper, a full discussion should last 45–50 minutes, while a sharing presentation should last 30–35 minutes. Presenters are expected to prepare around 30–40 slides. 
+
+- The presentation should clearly introduce the main idea, technical contributions, and key strengths and weaknesses of the paper. Relevant background and related work may also be included when appropriate.
 
 ## Other Information
 
@@ -15,5 +17,5 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 
 - 💡 Kick-off meeting
 - 🙎‍♂️ Zewen Jin, Chizheng Fang, Yuzhe Li, Mulong Li and Shen Fu
-- [📕 slides]
+- 📕...
 <br><br>
