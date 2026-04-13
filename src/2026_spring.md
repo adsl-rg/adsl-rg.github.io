@@ -21,7 +21,7 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 <br><br>
 ### April 14
 #### Topic I
-- 💡 [CVPR'26] AdaCluster: Adaptive Query-Key Clustering for Sparse Attention in Video Generation
+- 💡 [CVPR'26] [AdaCluster: Adaptive Query-Key Clustering for Sparse Attention in Video Generation](./slides/260413-Adacluster.pdf)
 - 🙎‍♂️ Haoyue Tan
 - 📕...
 <br><br>
