@@ -23,7 +23,7 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 #### Topic I
 - 💡 [CVPR'26] [AdaCluster: Adaptive Query-Key Clustering for Sparse Attention in Video Generation](./slides/260413-Adacluster.pdf)
 - 🙎‍♂️ Haoyue Tan
-- 📕...
+- [📕slides](./slides/260414adahunyuan.pdf)
 <br><br>
 #### Topic II
 - 💡 [arXiv] [IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://arxiv.org/abs/2603.12201)
