@@ -28,5 +28,5 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 #### Topic II
 - 💡 [arXiv] [IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://arxiv.org/abs/2603.12201)
 - 🙎‍♂️ Ruibo Liu, Ouxiang Zhou
-- 📕...
+- [📕slides](./slides/260415IndexCache.pdf)
 <br><br>
