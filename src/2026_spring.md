@@ -48,3 +48,13 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 - 🙎‍♂️ Long Zhao
 - [📕slides](./slides/260428-FluxMoE.pdf)
 <br><br>
+
+### May 12
+- 💡 Comprehensive introduction of DeepSeek-V4 technical report (PART I)
+- 🙎‍♂️ Chengru Yang, Chengjie Tang, Ouxiang Zhou, Shen Fu, Ruibo Liu, Yinhe Chen
+- 📕slides
+<br><br>
+### May 12
+- 💡 Comprehensive introduction of DeepSeek-V4 technical report (PART II)
+- 🙎‍♂️ Congkun Ai, Yuzhe Li, Jiahui Tan, Chenhan Wang, Chizheng Fang
+- 📕slides
