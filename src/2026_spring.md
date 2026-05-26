@@ -54,7 +54,13 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 - 🙎‍♂️ Chengru Yang, Chengjie Tang, Ouxiang Zhou, Shen Fu, Ruibo Liu, Yinhe Chen
 - 📕 slides
 <br><br>
-### May 12
+### May 19
 - 💡 Comprehensive introduction of DeepSeek-V4 technical report (PART II)
 - 🙎‍♂️ Congkun Ai, Yuzhe Li, Jiahui Tan, Chenhan Wang, Chizheng Fang
 - 📕 slides
+<br><br>
+### May 26
+- 💡 [arXiv] [JANUS: Disaggregating Attention and Experts for Scalable MoE Inference](https://arxiv.org/abs/2512.13525)
+- 🙎‍♂️ Chizheng Fang
+- [📕 slides](./slides/260526-Janus.pdf)
+<br><br>
