@@ -64,3 +64,19 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 - 🙎‍♂️ Chizheng Fang
 - [📕 slides](./slides/260526-Janus.pdf)
 <br><br>
+### June 2
+#### Topic I
+- 💡 [MLSys26] [AccelOpt: Self-improving Agents for AI Accelerator Kernel Optimization](https://arxiv.org/abs/2511.15915)
+- 🙎‍♂️ Yuhang Wang, Jingwen Sun
+#### Topic II
+- 💡 [arXiv] [CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation](https://arxiv.org/abs/2602.24286)
+- 🙎‍♂️ Xingye You, Ziqi Chen
+<br><br>
+### June 9
+#### Topic I
+- 💡 [ICLR26] [SonicMoE: Accelerating MoE with IO and Tile-aware Optimizations](https://arxiv.org/abs/2512.14080)
+- 🙎‍♂️ Jiahui Tan
+#### Topic II
+- 💡 [PLDI26] [Neptune: Advanced ML Operator Fusion for Locality and Parallelism on GPUs](https://arxiv.org/abs/2510.08726)
+- 🙎‍♂️ Congkun Ai, Zewen Jin
+<br><br>
