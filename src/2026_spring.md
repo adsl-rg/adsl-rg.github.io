@@ -37,6 +37,7 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 - 💡 [arXiv] [Token Sparse Attention: Efficient Long-Context Inference with Interleaved Token Selection](https://arxiv.org/abs/2602.03216)
 - 🙎‍♂️ Chengjie Tang, Shen Fu
 - [📕 slides](./slides/260421-TokenSparseAttention.pdf)
+- [📺 video](https://www.bilibili.com/video/BV1KvVU6DEBp/)
 <br><br>
 ### April 28
 #### Topic I
