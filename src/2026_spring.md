@@ -69,6 +69,7 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 #### Topic I
 - 💡 [MLSys26] [AccelOpt: Self-improving Agents for AI Accelerator Kernel Optimization](https://arxiv.org/abs/2511.15915)
 - 🙎‍♂️ Yuhang Wang, Jingwen Sun
+- [📕 slides](./slides/260602-AccelOpt.pdf)
 #### Topic II
 - 💡 [arXiv] [CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation](https://arxiv.org/abs/2602.24286)
 - 🙎‍♂️ Xingye You, Ziqi Chen
