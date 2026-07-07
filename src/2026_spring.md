@@ -125,6 +125,6 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 - 📕 slides
 #### Topic II
 - 💡 [OSDI25] [To PRI or Not To PRI, That’s the question](https://www.usenix.org/conference/osdi25/presentation/wang-yun)
-- 🙎‍♂️ Yicheng Zhang, Lefan Chen
+- 🙎‍♂️ Yicheng Zhang, Luofan Chen
 - 📕 slides
 <br><br>
