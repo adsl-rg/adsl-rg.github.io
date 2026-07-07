@@ -117,3 +117,14 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 - 🙎‍♂️ Bosen Yang, Jiyang Wang
 - 📕 slides
 <br><br>
+
+### July 7
+#### Topic I
+- 💡 [arXiv] [ReMP: Low-Downtime Runtime Model-Parallelism Reconfiguration for LLM Serving](https://arxiv.org/abs/2606.18741)
+- 🙎‍♂️ Jiaan Zhu
+- 📕 slides
+#### Topic II
+- 💡 [OSDI25] [To PRI or Not To PRI, That’s the question](https://www.usenix.org/conference/osdi25/presentation/wang-yun)
+- 🙎‍♂️ Yicheng Zhang, Lefan Chen
+- 📕 slides
+<br><br>
