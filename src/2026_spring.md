@@ -128,3 +128,14 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 - 🙎‍♂️ Yicheng Zhang, Luofan Chen
 - 📕 slides
 <br><br>
+
+### July 14
+#### Topic I
+- 💡 [OSDI26] [Strata: Hierarchical Context Caching for Long Context Language Model Serving](https://arxiv.org/abs/2508.18572)
+- 🙎‍♂️ Mingxuan Liu
+- 📕 slides
+#### Topic II
+- 💡 [MLSys26] [fabric-lib: RDMA Point-to-Point Communication for LLM Systems](https://arxiv.org/abs/2510.27656)
+- 🙎‍♂️ Mingxuan Liu
+- 📕 slides
+<br><br>
