@@ -139,3 +139,14 @@ The playback video and text summary will be uploaded to <a href="https://space.b
 - 🙎‍♂️ Mingxuan Liu
 - 📕 slides
 <br><br>
+
+### July 21
+#### Topic I
+- 💡 [arXiv] [Analyzing Reverse Address Translation Overheads in Multi-GPU Scale-Up Pods](https://arxiv.org/abs/2604.02473)
+- 🙎‍♂️ Jia He
+- 📕 slides
+#### Topic II
+- 💡 [MLSys26] [SuperInfer: SLO-Aware Rotary Scheduling and Memory Management for LLM Inference on Superchips](https://arxiv.org/abs/2601.20309)
+- 🙎‍♂️ Xiliang Xian
+- 📕 slides
+<br><br>
